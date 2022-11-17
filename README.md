@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itsmejustino
 - 👀 I’m a web developer that enjoys full stack app creation and slightly enjoys Backend Development more than Frontend. 
 - 🌱 I love solving full stack problems with React, Node.js, Javascript, and MongoDB/MySQL
-- ✨ I'm learning RedwoodJS, Postgresql, and Prisma.
+- ✨ I'm learning Typescript and Next.js.
 - 💞️ I'm searching for a company that would love to hire me!
 - 📫 How to reach me justindortiz@me.com
 
